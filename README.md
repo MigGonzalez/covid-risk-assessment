@@ -24,9 +24,3 @@ It will be difficult to handle the dynamic data collection as we are essentially
 - PostgresQL 
 - OAuth 
 - Bcrypt 
-
-## Team Responsibility breakdown: Who’s working on which part?
-- Ai Mi: backend 
-- Kristiina: backend
-- Jonah: frontend 
-- Sanaya: frontend 
